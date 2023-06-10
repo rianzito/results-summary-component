@@ -12,6 +12,8 @@ https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV
 # Visualização:
 
 <img src="https://github.com/rianzito/results-summary-component/blob/master/design/desktop-preview.jpg" height="500" />
+
+- Copie o link e Cole no seu navegador:
 ```
 https://rianzito.github.io/results-summary-component/
 ```
