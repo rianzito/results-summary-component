@@ -5,9 +5,9 @@ Projeto concluído com propósito de aprimorar as habilidades de HTML e CSS.
 
 A fonte desse projeto se encontra no site:
 
-´´´
+```
 https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV
-´´´
+```
 
 # Visualização:
 
@@ -21,15 +21,16 @@ https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV
 # Instalação do projeto:
 
 1. Clone o projeto:
-´´´
-https://github.com/rianzito/results-summary-component.git ´´´
+```
+https://github.com/rianzito/results-summary-component.git 
+```
 
 2. Depois de clonar, abra a pasta:
-´´´
+```
 results-summary-component
-´´´
+```
 
 3. Abra o arquivo no seu navegador:
-´´´
+```
 index.html 
-´´´
+```
