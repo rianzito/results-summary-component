@@ -1,0 +1,27 @@
+@media screen and (max-width: 720px){
+  .root-container{
+    width: 100%;
+  }
+
+  .card{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 15.9rem;
+  }
+
+  .result{
+    width: 100%;
+    height: auto;
+    padding-bottom: 1rem;
+  }
+
+  .summrary{
+    width: 100%;
+    align-items: center;
+    padding-bottom: 1.5rem;
+  }
+}
