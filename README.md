@@ -13,7 +13,7 @@ https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV
 
 <img src="https://github.com/rianzito/results-summary-component/blob/master/design/desktop-preview.jpg" height="500" />
 ```
-https://rianzito.github.io/results-summary-component
+https://rianzito.github.io/results-summary-component/
 ```
 
 # Principais conceitos aplicados:
