@@ -1,7 +1,7 @@
 
 # Introduction:
 
-Project completed with the purpose of improving HTML and CSS skills.
+Project completed with the purpose of improving HTML and CSS skills. <br>
 The source of this project can be found on the website:
 ```
 https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV
